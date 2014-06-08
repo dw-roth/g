@@ -36,3 +36,5 @@ Modify g.cmd to your file structure.
 
 Use it.
 
+Gee, isn't that easy?
+

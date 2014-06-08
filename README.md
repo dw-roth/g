@@ -3,12 +3,12 @@ g
 
 g.cmd is a simple windows batch file you can use for easy navigation on the windows command line. 
 
-I can't count the times I've sat with another developer at his machine and suffered as I waited for him to clumsily navigate his directory structure on the command line. A conversation sometimes ensues as I drum my fingers on his desktop:
+Too many times I've sat with another developer at his machine and impatiently suffered as I waited for him to clumsily navigate his directory structure on the command line. A conversation sometimes ensues as I drum my fingers on his desktop:
 
->"Why don't you have a shortcuts command file for doing this?"<br/>
+>"Why don't you have a script file for navigating your project directories?"<br/>
 >"Uh, yeah, that's a good idea"<br/>
->"How many minutes of your life do you think you've wasted typing 'cd ..\\..'?"<br/>
->...neverous, anxiety driven chuckles... 
+>"How many minutes of your life do you think you've wasted typing 'cd ..\\..' and such?"<br/>
+>...nervous, anxiety driven chuckles... 
 
 Now I have a place to point him to get him started.
 

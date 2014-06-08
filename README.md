@@ -28,7 +28,7 @@ To go to the code project PAA:
 
 The Setup
 ---------
-If you don't have one, create a directory for your common scripts and ensure that directory is in your path (see my npath git project for an easy to do this from the windows command line). I recommend %HOMEDRIVE%%HOMEPATH%\bin
+If you don't have one, create a directory for your common scripts and ensure that directory is in your path (see my npath git project for an easy way to do this from the windows command line). I use and recommend %HOMEDRIVE%%HOMEPATH%\bin as the directory for my scripts and tools.
 
 Put g.cmd in that directory
 
